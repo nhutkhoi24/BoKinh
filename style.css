@@ -420,7 +420,7 @@ h4,
 .about-preview {
     position: relative;
     padding: 160px 0;
-    background-image: url('/image/pexels-ponvintage-30348747.jpg');
+    background-image: url('./image/pexels-ponvintage-30348747.jpg');
     background-size: cover;
     background-position: center 30%;
     background-attachment: fixed;
@@ -583,7 +583,7 @@ h4,
 .services-preview {
     position: relative;
     padding: 160px 0;
-    background-image: url('/image/pexels-dang-vu-hai-683750211-33527084.jpg');
+    background-image: url('./image/pexels-dang-vu-hai-683750211-33527084.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -658,7 +658,7 @@ h4,
 .projects-section {
     position: relative;
     padding: 160px 0;
-    background-image: url('image/pexels-latuna-14434745.jpg');
+    background-image: url('./image/pexels-latuna-14434745.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -743,7 +743,7 @@ h4,
     position: relative;
     padding: 160px 0;
     border-top: 1px solid rgba(255, 255, 255, 0.1);
-    background-image: url('/image/img1.png');
+    background-image: url('./image/img1.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -860,7 +860,7 @@ h4,
 .contact-section {
     position: relative;
     padding: 160px 0;
-    background-image: url('/image/pexels-latuna-14434745.jpg');
+    background-image: url('./image/pexels-latuna-14434745.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1006,7 +1006,7 @@ h4,
 .cta-parallax {
     position: relative;
     padding: 160px 0;
-    background-image: url('/image/pexels-muhammad-hary-2158336590-35313286.jpg');
+    background-image: url('./image/pexels-muhammad-hary-2158336590-35313286.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
