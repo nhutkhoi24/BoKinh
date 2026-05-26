@@ -38,7 +38,7 @@ window.addEventListener('scroll', () => {
     });
 });
 
-// ── Scroll reveal animations ──
+// ── Scroll reveal animations ─-
 const revealEls = document.querySelectorAll(
     '.about-preview, .services-preview, .projects-section, .mascot-section, .contact-section'
 );
